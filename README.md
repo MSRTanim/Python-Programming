@@ -2,11 +2,24 @@
 This is a source file for Python Programming Language. Read attentively the Redme file before start...
 [![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](http://www.msrtanim.xyz)
 
+<<<<<<< HEAD
+# You Need Class Link?
+if you need Class link please visit My Facebook Page or Instagram Account.
+=======
 # You Need Class Links?
 This is a paid course. So if you need the premium Class link please visit My Facebook Page or Instagram Account.
+>>>>>>> cbaa0e4614861f47649134bb674c5b8ec00607d0
 
+<<<<<<< HEAD
+<a href="https://fb.com/msrtanim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msrtanim1" height="30" width="40" /></a>
+<a href="https://instagram.com/msrtanim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msrtanim1" height="30" width="40" /></a>
+
+
+# Install System
+=======
 <a href="https://fb.com/toxiccyber.tcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msrtanim1" height="30" width="40" /></a>
 <a href="https://instagram.com/msrtanim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msrtanim1" height="30" width="40" /></a>
+>>>>>>> cbaa0e4614861f47649134bb674c5b8ec00607d0
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%91%8BHELLO+WORLD+I'M+TANIM+HERE%F0%9F%92%81%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;%E2%98%A3%EF%B8%8FCEO+OF+TOXIC+CYBER+SECURITY%E2%98%A3%EF%B8%8F;%F0%9F%92%81%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8FPLEASE+FOLLOW+MY+GITHUB%F0%9F%92%96;%F0%9F%92%BBTHANKS+ALL+MY+FAMILY+MEMBERS%F0%9F%94%A5)](https://git.io/typing-svg)
